@@ -1,0 +1,21 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "forever start index.js",
+    "stop": "forever stop index.js",
+    "restart": "forever restart index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "firebase": "^5.3.1",
+    "forever": "^0.15.3",
+    "node-schedule": "^1.3.0",
+    "request": "^2.87.0"
+  }
+}
