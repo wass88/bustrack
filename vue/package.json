@@ -16,7 +16,7 @@
     "d3-scale": "^2.1.0",
     "dotenv": "^6.0.0",
     "firebase": "^4.12.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuetify": "^1.1.9"
