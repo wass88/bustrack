@@ -12,8 +12,8 @@
     "deploy": "rsync -arcv ./dist/ kmc:private_html/bus-track/"
   },
   "dependencies": {
-    "d3": "^5.5.0",
-    "d3-scale": "^2.1.0",
+    "d3": "^7.6.1",
+    "d3-scale": "^4.0.2",
     "dotenv": "^6.0.0",
     "firebase": "^4.12.1",
     "moment": "^2.22.2",
